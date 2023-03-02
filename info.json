@@ -1,0 +1,137 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://coco.codemao.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 1112,
+            "children": [
+                {
+                    "url": "https://creation.codemao.cn/coco/home/dist/commons.dbdd4b4c277fe25d54b2.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://creation.codemao.cn/coco/home/dist/coco.2d383da2e1f26c34f4d5.js",
+                    "path": "js/coco.2d383da2e1f26c34f4d5.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://creation.codemao.cn/coco/home/dist/commons_bfdf3.css",
+                    "path": "css/commons_bfdf3.css",
+                    "saved": true,
+                    "size": 581012,
+                    "children": [
+                        {
+                            "url": "https://kn-cdn.codemao.cn/catui2/sign_in.86cc1cf3.jpg",
+                            "path": "img/sign_in.86cc1cf3.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://creation.codemao.cn/coco/home/dist/coco_5451f.css",
+                    "path": "css/coco_5451f.css",
+                    "saved": true,
+                    "size": 63837,
+                    "children": [
+                        {
+                            "url": "https://cdn-community.codemao.cn/community_frontend/asset/background_5fc5c.svg",
+                            "path": "img/background_5fc5c.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static.codemao.cn/crc-uploader/2021/12/6846f9989f60ce46c06f5a5309b35b1c.png",
+                            "path": "img/6846f9989f60ce46c06f5a5309b35b1c.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://creation.codemao.cn/coco/home/dist/asset/course_75237.png",
+                            "path": "img/course_75237.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static.codemao.cn/coco/image/home_bottom.gif",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://creation.codemao.cn/coco/home/dist/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "coco-codemao-cn-cyooc49",
+    "info": {
+        "remark": [],
+        "title": "CoCo - 让世界没有难做的APP",
+        "domain": "coco.codemao.cn",
+        "origin": "https://coco.codemao.cn",
+        "ip": "47.114.139.236",
+        "main": "index.html",
+        "url": "https://coco.codemao.cn/",
+        "totalSize": "646 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://coco.codemao.cn/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://coco.codemao.cn/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Wed, 21 Dec 2022 07:28:23 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "content-length": "1241",
+                "connection": "close",
+                "vary": "Accept-Encoding, Accept-Encoding",
+                "x-powered-by": "Express",
+                "accept-ranges": "bytes",
+                "cache-control": "public, max-age=2592000",
+                "last-modified": "Mon, 07 Nov 2022 06:35:29 GMT",
+                "etag": "W/\"4d9-18450cd1768\"",
+                "strict-transport-security": "max-age=15724800; includeSubDomains"
+            }
+        },
+        "time": {
+            "start": "2022-12-21T07:28:23.219Z",
+            "end": "2022-12-21T07:29:28.688Z"
+        }
+    },
+    "options": {
+        "url": "https://coco.codemao.cn/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
